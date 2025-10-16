@@ -281,7 +281,7 @@ This project is licensed under the ISC License.
 
 ## 👤 Author
 
-Your Name
+Awab Saghir
 
 ---
 
